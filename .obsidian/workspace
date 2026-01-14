@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "e77f3f88a7064643",
+    "type": "split",
+    "children": [
+      {
+        "id": "07b041b9eee801c5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Unity/Math/Рассчеты расстояний.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "4658d7e9de128763",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Unity/Math/Векторы.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2eebf6a19d3cd08b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c220d4e0732106f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "defad6e54dcbaea2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "da8c16ae8e8c68e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251
+  },
+  "right": {
+    "id": "5806c580b60e54e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c59f7a2e84c71c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05b86691e0a1e312",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unity/Math/Векторы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4658d7e9de128763",
+  "lastOpenFiles": [
+    "Unity/Math/Рассчеты градусов и повороты.md",
+    "Unity/Math/Векторы.md",
+    "Unity/Math/Рассчеты расстояний.md",
+    "Unity/Math/Функции.md",
+    "Unity/Math/Lerp.md",
+    "Unity/Math/Sin Cos.md",
+    "Алгоритмы/Математические методы.md",
+    "Алгоритмы/Сортировки/Сложности.md",
+    "Алгоритмы/[Stiven_Skiena]_Algoritmue._Rukovodstvo_po_razrabo(BookSee.org).pdf",
+    "Нейросети/Сборка нейронов в сеть.md"
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "main": {
+    "id": "e77f3f88a7064643",
+    "type": "split",
+    "children": [
+      {
+        "id": "c12b9520ae1ad3a1",
+        "type": "tabs",
+        "dimension": 45.527015057573074,
+        "children": [
+          {
+            "id": "21f377c673368e30",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИИ и машинное обучение/ИНС/Фреймворки/PyTorch/PyTorch - команды.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "PyTorch - команды"
+            }
+          },
+          {
+            "id": "2cf3dfa394fee694",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИИ и машинное обучение/ИНС/Архитектуры НС/CNN/Выбор параметров свертки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Выбор параметров свертки"
+            }
+          },
+          {
+            "id": "ee5e411d0d49d0ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Глоссарий/Стандартное отклонение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Стандартное отклонение"
+            }
+          },
+          {
+            "id": "e1223911f27478ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИИ и машинное обучение/Deep Learning YT курс/Метрики точности.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Метрики точности"
+            }
+          },
+          {
+            "id": "9bd7c3e79f6039a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИИ и машинное обучение/ИНС/LSTM/Transformer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Transformer"
+            }
+          },
+          {
+            "id": "57daeb0efe499cca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИИ и машинное обучение/Машинное обучение/Обучение с учителем/Регрессия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Регрессия"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "d01a5a7e333bde88",
+        "type": "tabs",
+        "dimension": 54.472984942426926,
+        "children": [
+          {
+            "id": "eed1ce565e120b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИИ и машинное обучение/ИНС/Архитектуры НС/Сверточные нейросети.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сверточные нейросети"
+            }
+          },
+          {
+            "id": "c2a30ed91e432b76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ИИ и машинное обучение/Распознавание образов и CV/Задачи навигации/University-1652 A Multi-view Multi-source Benchmark for Drone-based Geo-localization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "University-1652 A Multi-view Multi-source Benchmark for Drone-based Geo-localization"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2eebf6a19d3cd08b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c220d4e0732106f",
+        "type": "tabs",
+        "dimension": 52.368758002560824,
+        "children": [
+          {
+            "id": "defad6e54dcbaea2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "da8c16ae8e8c68e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "1e34d43517e4bf29",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      },
+      {
+        "id": "32291ed74d77ec84",
+        "type": "tabs",
+        "dimension": 47.63124199743918,
+        "children": [
+          {
+            "id": "3be7a914ce0bbb6a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.5
+  },
+  "right": {
+    "id": "5806c580b60e54e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c59f7a2e84c71c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05b86691e0a1e312",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ИИ и машинное обучение/Распознавание образов и CV/Задачи навигации/University-1652 A Multi-view Multi-source Benchmark for Drone-based Geo-localization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для University-1652 A Multi-view Multi-source Benchmark for Drone-based Geo-localization"
+            }
+          },
+          {
+            "id": "8a1c4415ac17a1df",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Создать новую базу": false,
+      "canvas:Создать новый холст": false,
+      "switcher:Меню быстрого перехода": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "graph:Граф": false,
+      "templates:Вставить шаблон": false
+    }
+  },
+  "active": "eed1ce565e120b29",
+  "lastOpenFiles": [
+    "Глоссарий/Глубокое обучение.md",
+    "ИИ и машинное обучение/ИНС/Сборка нейронов в сеть.md",
+    "Глоссарий/Гессиан.md",
+    "ИИ и машинное обучение/Deep Learning YT курс/Overfitting.md",
+    "ИИ и машинное обучение/Deep Learning YT курс/L-нормы.md",
+    "ИИ и машинное обучение/Deep Learning YT курс/Data pre-processing и первые шаги.md",
+    "ИИ и машинное обучение/Deep Learning YT курс/Проблемы обучения.md",
+    "ИИ и машинное обучение/Deep Learning YT курс/Оптимизаторы.md",
+    "ИИ и машинное обучение/Deep Learning YT курс/Batch normalize.md",
+    "ИИ и машинное обучение/Deep Learning YT курс/Метрики точности.md",
+    "ИИ и машинное обучение/ИНС/Softmax.md",
+    "ИИ и машинное обучение/ИНС/LSTM/Transformer.md",
+    "ИИ и машинное обучение/ИНС/LSTM/Multi-Head Attention.md",
+    "ИИ и машинное обучение/ИНС/LSTM/Attention.md",
+    "ИИ и машинное обучение/Машинное обучение/Обучение с учителем/Регрессия.md",
+    "Глоссарий/Градиент.md",
+    "ИИ и машинное обучение/Распознавание образов и CV/Задачи навигации/University-1652 A Multi-view Multi-source Benchmark for Drone-based Geo-localization.md",
+    "ИИ и машинное обучение/Распознавание образов и CV/Задачи навигации/Orientation-Guided Contrastive Learning for UAV-View Geo-Localisation.md",
+    "ИИ и машинное обучение/Распознавание образов и CV/Задачи навигации/Обзор University-1652 A Multi-view Multi-source Benchmark for Drone-based Geo-localization.md",
+    "ИИ и машинное обучение/ИНС/Фреймворки/PyTorch/PyTorch - команды.md",
+    "ИИ и машинное обучение/ИНС/Фреймворки/PyTorch/Пайплайн.md",
+    "ИИ и машинное обучение/ИНС/Рецептивные поля.md",
+    "ИИ и машинное обучение/ИНС/Архитектуры НС/CNN/Выбор параметров свертки.md",
+    "Глоссарий/Стандартное отклонение.md",
+    "ИИ и машинное обучение/ИНС/Архитектуры НС/CNN/AlexNet.md",
+    "Глоссарий/Свертка.md",
+    "Глоссарий/Материалы/МОДИФИКАЦИЯ TRIPLET LOSS.pptx",
+    "ИИ и машинное обучение/746_f_41_tenzory-dlya-chainikov.pdf",
+    "Pasted image 20230528004006.png",
+    "ИИ и машинное обучение/Машинное обучение/Обучение с учителем/Материалы/Pasted image 20241010012614.png",
+    "ИИ и машинное обучение/ИНС/Фреймворки/PyTorch/Материалы/Pasted image 20241010003548.png",
+    "ИИ и машинное обучение/ИНС/Архитектуры НС/CNN/Материалы/Pasted image 20241010003420.png",
+    "ИИ и машинное обучение/ИНС/Архитектуры НС/CNN/Материалы/Pasted image 20241010003250.png",
+    "ИИ и машинное обучение/ИНС/Фреймворки/PyTorch/Материалы/Pasted image 20241010002605.png",
+    "ИИ и машинное обучение/ИНС/Фреймворки/PyTorch/Материалы/Pasted image 20241010002547.png",
+    "ИИ и машинное обучение/ИНС/Фреймворки/PyTorch/Материалы",
+    "ИИ и машинное обучение/ИНС/Фреймворки/PyTorch",
+    "ИИ и машинное обучение/Распознавание образов и CV/Задачи навигации/Материалы/Pasted image 20240821115011.png",
+    "Глоссарий/Материалы/Pasted image 20240826155602.png",
+    "Глоссарий/Материалы/Pasted image 20240826154802.png",
+    "Networking",
+    "ИИ и машинное обучение/Машинное обучение/Материалы",
+    "ИИ и машинное обучение/Без названия",
+    "ИИ и машинное обучение/Распознавание образов и CV/Задачи навигации/Материалы",
+    "ИИ и машинное обучение/Распознавание образов и CV/Задачи навигации",
+    "Без названия 1.canvas",
+    "ИИ и машинное обучение/ИНС/Фреймворки/Материалы",
+    "Без названия.canvas"
+  ]
+}
