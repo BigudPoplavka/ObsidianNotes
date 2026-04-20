@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"ObsidianNotes/ObsidianNotes/ИИ и машинное обучение\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:ObsidianNotes/ObsidianNotes/Глоссарий  ",
+      "color": {
+        "a": 1,
+        "rgb": 10187262
+      }
+    },
+    {
+      "query": "path:ObsidianNotes/ObsidianNotes/Программирование  ",
+      "color": {
+        "a": 1,
+        "rgb": 14065449
+      }
+    },
+    {
+      "query": "path:\"ObsidianNotes/ObsidianNotes/Заметки из статей\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 3762942
+      }
+    },
+    {
+      "query": "path:ObsidianNotes/ObsidianNotes/Диссер  ",
+      "color": {
+        "a": 1,
+        "rgb": 16728806
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.2,
+  "nodeSizeMultiplier": 1.18747401247401,
+  "lineSizeMultiplier": 1.08560291060291,
+  "collapse-forces": false,
+  "centerStrength": 0.42983367983368,
+  "repelStrength": 10.5925155925156,
+  "linkStrength": 0.845634095634096,
+  "linkDistance": 93,
+  "scale": 0.70233196159122,
+  "close": true
+}
