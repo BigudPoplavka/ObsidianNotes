@@ -241,12 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Диссер/2_hypotheses/Гипотезы v1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Гипотезы v1"
             }
           }
         ],
@@ -267,8 +268,14 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "3be7a914ce0bbb6a",
+  "active": "2ed462df761fe3e4",
   "lastOpenFiles": [
+    "Диссер/Материалы/Pasted image 20260418145704.png",
+    "Диссер/Материалы/Pasted image 20260418145656.png",
+    "Диссер/Материалы/Pasted image 20260418145624.png",
+    "Диссер/Материалы/Pasted image 20260418144455.png",
+    "Диссер/Материалы/CLS_GFs_val_comp_pv3_ptd_01_l_03_v2.png",
+    "Диссер/Материалы/CLS_GFs_val_comp_pv3_ptd_01_l_03.png",
     "Диссер/2_hypotheses/Гипотезы v1.md",
     "Диссер/4_questions_problems/Научная новизна.md",
     "Диссер/4_questions_problems/Рекомендации и идеи.md",
@@ -294,11 +301,6 @@
     "Диссер/4_questions_problems/Материалы/Pasted image 20260421111122.png",
     "Диссер/4_questions_problems/Материалы/Pasted image 20260421110850.png",
     "Диссер/4_questions_problems/Материалы",
-    "Диссер/3_work/Материалы/REGR_GFs_val_comp_pv3_ptd_03_l_01_v2.png",
-    "Диссер/3_work/Материалы/REGR_GFs_Train_comp_pv3_ptd_03_l_01.png",
-    "Диссер/3_work/Материалы/CLS_GFs_val_comp_pv3_ptd_01_l_03_v2.png",
-    "Диссер/3_work/Материалы/CLS_GFs_val_comp_pv3_ptd_01_l_03.png",
-    "Диссер/3_work/Материалы/CLS_GFs_Train_comp_pv3_ptd_01_l_03.png",
     "Диссер/3_work/methods/loss_functions.md",
     "Диссер/references.md",
     "Диссер/README.md",
@@ -309,7 +311,6 @@
     "Диссер/3_work/Материалы",
     "Диссер/Материалы",
     "Диссер/0_disser/chapter3_templates.md",
-    "Диссер/0_disser/chapter2_multimodal.md",
     "Глоссарий/Материалы/МОДИФИКАЦИЯ TRIPLET LOSS.pptx",
     "ИИ и машинное обучение/746_f_41_tenzory-dlya-chainikov.pdf",
     "ИИ и машинное обучение/ИНС/Фреймворки/PyTorch/Материалы",
