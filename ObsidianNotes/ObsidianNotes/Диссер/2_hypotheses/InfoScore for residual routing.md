@@ -216,7 +216,7 @@ v_img → MLP_sub_img → P_sub^T → v_img_sub
                  distance(·, μ_sub, Σ_sub) → SM_sub ∈ ℝ₊
 
 μ_sub, Σ_sub ← EMA update (running statistics)
+```
 
 ![[Pasted image 20260421112940.png]]
-
 

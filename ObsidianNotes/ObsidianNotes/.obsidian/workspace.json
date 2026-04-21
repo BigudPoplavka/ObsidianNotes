@@ -255,13 +255,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Диссер/2_hypotheses/InfoScore for residual routing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура InfoScore for residual routing"
+              "title": "Структура"
             }
           }
         ],
@@ -282,13 +281,13 @@
       "templates:Вставить шаблон": false
     }
   },
-  "active": "b68e0e45e5dcb07a",
+  "active": "3be7a914ce0bbb6a",
   "lastOpenFiles": [
+    "Диссер/2_hypotheses/InfoScore for residual routing.md",
     "Диссер/4_questions_problems/Проблемы и вопросы.md",
     "Диссер/4_questions_problems/Научная новизна.md",
     "Диссер/2_hypotheses/Adaptive_residual_routing.md",
     "Диссер/4_questions_problems/Рекомендации и идеи.md",
-    "Диссер/2_hypotheses/InfoScore for residual routing.md",
     "Диссер/3_work/Hierarchical Information Decomposition Fusion.md",
     "Диссер/2_hypotheses/Гипотезы v1.md",
     "Диссер/Материалы/Pasted image 20260418145704.png",
