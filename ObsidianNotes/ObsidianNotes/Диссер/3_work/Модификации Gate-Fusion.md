@@ -81,9 +81,7 @@ tags:
 | Gate + Sum | **0.12** | **0.19** |
 | SRGF | 0.13 | 0.25 |
 | RCGF | **0.12** | 0.25 |
-
-
-![[REGR_GFs_val_comp_pv3_ptd_03_l_01_v2.png|697]]
+![[REGR_GFs_val_comp_pv3_ptd_03_l_01_v2.png]]
 
 ---
 
